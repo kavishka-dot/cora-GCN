@@ -1,4 +1,5 @@
 # Graph Convolutional Network (GCN) for Research Paper Classification
+![Cora2](https://github.com/user-attachments/assets/47adcb60-5177-4d48-872e-a0212c75b3e8)
 
 ## 📌 Project Overview
 This project implements a **Graph Convolutional Network (GCN) from scratch** using PyTorch and PyTorch Geometric (PyG). The model is trained on the **Cora citation dataset**, which is widely used for node classification tasks in graph learning.
