@@ -44,7 +44,7 @@ To set up the project, first install the required dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/GCN_Project.git
+git clone https://github.com/kavishka-dot/cora-GCN.git
 cd GCN_Project
 
 # Create a virtual environment (optional but recommended)
